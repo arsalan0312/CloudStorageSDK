@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<Authors>Muhammad Arsalan</Authors>
+	<Description>A unified service for Azure Blob Storage, AWS S3, and Google Cloud Storage operations.</Description>
+	<PackageTags>Azure, AWS, Google Cloud, Storage</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.S3" Version="3.7.415.18" />
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.24.0" />
+    <PackageReference Include="Google.Cloud.Storage.V1" Version="4.11.0" />
+  </ItemGroup>
+
+</Project>
