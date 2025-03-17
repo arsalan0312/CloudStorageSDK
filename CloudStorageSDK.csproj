@@ -7,6 +7,8 @@
 	<Authors>Muhammad Arsalan</Authors>
 	<Description>A unified service for Azure Blob Storage, AWS S3, and Google Cloud Storage operations.</Description>
 	<PackageTags>Azure, AWS, Google Cloud, Storage</PackageTags>
+	<PackageRepositoryURL>https://github.com/arsalan0312/CloudStorageSDK</PackageRepositoryURL>
+	<PackageRepositoryType>git</PackageRepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
