@@ -1,0 +1,9 @@
+<package>
+  <metadata>
+    <id>YourPackageName</id>
+    <version>1.0.0</version>
+    <authors>Muhammad Arsalan</authors>
+    <description>A description of your NuGet package.</description>
+    <repository type="git" url="https://github.com/arsalan0312/CloudStorageSDK" />
+  </metadata>
+</package>

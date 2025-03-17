@@ -1,14 +1,14 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+	<Version>1.0.1</Version>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 	<Authors>Muhammad Arsalan</Authors>
 	<Description>A unified service for Azure Blob Storage, AWS S3, and Google Cloud Storage operations.</Description>
 	<PackageTags>Azure, AWS, Google Cloud, Storage</PackageTags>
-	<PackageRepositoryURL>https://github.com/arsalan0312/CloudStorageSDK</PackageRepositoryURL>
-	<PackageReadmeFile>README.md</PackageReadmeFile>
+	<RepositoryURL>https://github.com/arsalan0312/CloudStorageSDK</RepositoryURL>
 	<PackageRepositoryType>git</PackageRepositoryType>
   </PropertyGroup>
 
